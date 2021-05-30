@@ -1,7 +1,7 @@
+<br>
 <p align="center">
 <a href="https://github.com/Alimjoo/manim-example"><img src="https://img.shields.io/pypi/format/fas?color=success&label=alimjoo&logo=github&style=plastic" alt="Github Source Page"></a>
 </p>
-<br>
 <br>
 
 # Opening Manim
